@@ -149,7 +149,7 @@ cloudwalk-operations-analysis/
    
 3. **Example Alert:**
 ```
-🚨 CRITICAL ALERT - TPV SIGNIFICANT DROP
+CRITICAL ALERT - TPV SIGNIFICANT DROP
 
 PJ Credit Card TPV down 28% vs yesterday
 Current: R$ 82.3M | Expected: R$ 114.5M
